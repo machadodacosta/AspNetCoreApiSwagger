@@ -1,0 +1,12 @@
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\bin\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.deps.json
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\bin\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.runtimeconfig.json
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\bin\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.runtimeconfig.dev.json
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\bin\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.dll
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\bin\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.pdb
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.csprojAssemblyReference.cache
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.csproj.CoreCompileInputs.cache
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.AssemblyInfoInputs.cache
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.AssemblyInfo.cs
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.dll
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\Example.AspNetApi.ConfigSwagger.pdb
+C:\Users\regio.costa\source\repos\Example.AspNetApi.ConfigSwagger\Example.AspNetApi.ConfigSwagger\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
