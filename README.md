@@ -5,6 +5,6 @@ At this example we have the Swashbuckle and ASP.NET Core
 - Swashbuckle.AspNetCore.SwaggerGen: a Swagger generator that builds SwaggerDocument objects directly from your routes, controllers, and models. It's typically combined with the Swagger endpoint middleware to automatically expose Swagger JSON.
 - Swashbuckle.AspNetCore.SwaggerUI: an embedded version of the Swagger UI tool. It interprets Swagger JSON to build a rich, customizable experience for describing the web API functionality. It includes built-in test harnesses for the public methods.
 
-More:(<-- two spaces)
-https://swagger.io/solutions/api-design/(<-- two spaces)
+More:<br>
+https://swagger.io/solutions/api-design/<br>
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio
